@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\CourseWork\main.cpp(190,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\CourseWork\main.cpp(341,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  CourseWork.vcxproj -> C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\Debug\CourseWork.exe

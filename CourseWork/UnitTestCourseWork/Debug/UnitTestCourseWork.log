@@ -1,0 +1,6 @@
+﻿  UnitTestCourseWork.cpp
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\CourseWork\Header.h(191,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\CourseWork\Header.h(343,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\CourseWork\Header.h(215): warning C4715: List::find: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\Debug\UnitTestCourseWork.lib и объект C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\Debug\UnitTestCourseWork.exp
+  UnitTestCourseWork.vcxproj -> C:\Users\Я\Desktop\вуз\4 семестр\АиСД\CourseWork\Debug\UnitTestCourseWork.dll
